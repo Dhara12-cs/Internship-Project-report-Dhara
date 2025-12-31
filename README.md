@@ -60,6 +60,4 @@ This tool can be used by:
    - Keyword frequency chart
    - Neon Matrix animation in the background
 
----
 
-## 🧮 7. Suspicious Keywords Used
